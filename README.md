@@ -20,3 +20,11 @@ O programa auxiliar é dado pelo arquivo "Programa auxiliar.py" escrito na lingu
 ##### - Execução correta em todas as leituras, para isso não podia ter nenhuma escritora escrevendo quando uma leitora fosse ler.
 ##### -Execução correta em todas as escrtas, para isso não podia ter nenhuma escritora escrevendo nem leitora lendo quando uma escritora fosse escrever.
 ##### - Ausência de Inanição das threads.
+
+## Relatório
+
+O relatório se encontra na aba Wiki.
+
+## Autoria
+Letícia Tavares
+Tomaz Cuber
