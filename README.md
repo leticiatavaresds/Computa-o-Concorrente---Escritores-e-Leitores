@@ -26,5 +26,5 @@ O programa auxiliar é dado pelo arquivo "Programa auxiliar.py" escrito na lingu
 O relatório se encontra na aba Wiki.
 
 ## Autoria
-Letícia Tavares
-Tomaz Cuber
+Letícia Tavares da Silva
+Tomaz Cuber Guimarães
