@@ -1,1 +1,1 @@
-# Computa-o-Concorrente---Escritores-e-Leitores
+# Trabalho 2 - Computação Concorrente
