@@ -11,7 +11,7 @@ O programa principal é dado pelo arquivo "Escritoras e Leitoras.c" escrito na l
 # Programa Auxiliar
 
 O programa auxiliar é dado pelo arquivo "Programa auxiliar.py" escrito na linguagem Python e implementado utilizando a plataforma Colab.
-    Para compilá-lo, deve-se clicar no link que leva para o colab e executá-lo seguindo as orientação contidas junto ao código.
+    Para compilá-lo, deve-se clicar no link dado pela imagem com a frase "open in colab" que leva para o colab e executá-lo seguindo as orientação contidas junto ao código.
     O programa tem como saída um texto descrevendo toda a análise das funções, mostrando se cada uma deveria ter ocorrido o não, e outro texto analisando se a execução dada do código "Escritores e Leitoras.c" satisfez as condições dadas pelo problema, sendo elas:
 ##### -Quantidade de Threads Leitoras igual ao número pedido pelo usuário.
 ##### -Quantidade de Threads EScritoras igual ao número pedido pelo usuário.
