@@ -76,7 +76,7 @@ int comeca_leitura(int i) {
 
 	printf("\nLeitora %d está lendo a variável %d", i,var);
 
-		//fprintf(arq, "\n%d",var);
+	fprintf(arq, "\n%d",var);
 	l_cont++;
 	fprintf(pont_arq, "\nleitora_leu(%d,%d)", i,var);
 	leitura = var;
