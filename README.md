@@ -3,7 +3,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/leticiatavaresds/Computacao-Concorrente---Escritores-e-Leitores?color=a21360&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/leticiatavaresds/Computacao-Concorrente---Escritores-e-Leitores?color=a21360&style=for-the-badge)
-![Made With](https://img.shields.io/badge/Made%20With-C-lightgrey?color=a21360&style=for-the-badge)
+![Made With](https://img.shields.io/badge/Made%20With-C;%20Python-lightgrey?color=a21360&style=for-the-badge)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/leticiatavaresds/Computacao-Concorrente---Escritores-e-Leitores?color=a21360&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/leticiatavaresds/Computacao-Concorrente---Escritores-e-Leitores?color=a21360&style=for-the-badge)
 
