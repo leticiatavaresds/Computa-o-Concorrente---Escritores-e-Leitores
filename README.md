@@ -20,7 +20,7 @@
 
 # Introdução
 
-O problema dado de Leitras e Escritoras é caracterizado pela necessidade de threads de dois tipos, leitoras e escritoras, compartilharem um mesmo recurso, que nesse caso é uma única váriável correspondente ao número de identificação da thread que a escreveu.
+O problema dado de Leitoras e Escritoras é caracterizado pela necessidade de threads de dois tipos, leitoras e escritoras, compartilharem um mesmo recurso, que nesse caso é uma única váriável correspondente ao número de identificação da thread que a escreveu.
 A execução deve seguir três regras: 
 - Qualquer número de leitores pode ler do recurso compartilhado simultaneamente, mas apenas um escritor escreve por vez. 
 - Quando uma escritora está escrevendo, nenhuma outra thread pode ter acesso a variável compartilhada. 
