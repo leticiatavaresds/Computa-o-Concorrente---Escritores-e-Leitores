@@ -26,7 +26,7 @@ A execução deve seguir três regras:
 - Quando uma escritora está escrevendo, nenhuma outra thread pode ter acesso a variável compartilhada. 
 - Uma escritora não pode escrever se houver algum leitor lendo no momento. Da mesma forma, um leitor não pode ler se existe um escritor escrevendo. 
 
-A proposta do trabalho é implemetar um programa usando a biblioteca pthread na linguam ```C```, que consiga atender as exigências acima, além de garantir a inanição (Starvation) de threads. O trabalho é composto por duas partes. Sendo a primeira o programa principal, uma solução para o problema de escritores/leitores com garantia de ausencia de inanição das threads. E a segunda, um programa auxiliar para verificar, através de uma leitura do log de execução gerado pelo programa principal, se a execução ocorreu com sucesso.
+A proposta do trabalho é implemetar um programa usando a biblioteca pthread na linguagem ```C```, que consiga atender as exigências acima, além de garantir a inanição (Starvation) de threads. O trabalho é composto por duas partes. Sendo a primeira o programa principal, uma solução para o problema de escritores/leitores com garantia de ausencia de inanição das threads. E a segunda, um programa auxiliar para verificar, através de uma leitura do log de execução gerado pelo programa principal, se a execução ocorreu com sucesso.
 
 # Programa Principal
 
